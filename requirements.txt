@@ -2,7 +2,7 @@ gensim==3.7.1
 kiwisolver==1.0.1
 matplotlib==3.0.3
 networkx==2.2
-nltk==3.4
+nltk==3.4.5
 numpy==1.16.2
 pandas==0.23.0
 scikit-learn==0.20.3
