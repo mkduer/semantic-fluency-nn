@@ -4,7 +4,7 @@ Winter 2019
 CS 441/541  
 
 ## Authors
-Zach Bohley ([zbohley](https://github.com/zbohley))  
+Alejandro Espinoza ([azespinoza](https://github.com/azespinoza))  
 Michelle Duer ([mkduer](https://github.com/mkduer))  
 Alli Wong ([wonal](https://github.com/wonal))  
 Carson Cook ([cjc77](https://github.com/cjc77))  
